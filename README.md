@@ -1,21 +1,18 @@
-# DoctorsOperationHistory
-Simple record on every operation and user Login System and  user can add edit delete and modify operations details. 
+# DoctorsOperationDetails
+Here Any Hospital or Clinic or personal Chember of Doctors can get these facilities,
+
+1.They can Calculate how many operation done by selecting date to date.
+
+2.They can find age to age operation how many happend in selected days.
+
+3.They can search anything like Desies name unit etc...
+
+4.Add,Edit,Delete option for data.
 
 
-Technology
-Materialize Css
-PHP 5.6
-MySql
 
-
-Install process:
-
-Simple just need to run LAMP/XAMP/WAMP server then put it to public and create a database then upload the db.sql .
-
-After That connect the database and go to 
-include/connect.php
-and give
-database name username passwoard
-
+-----------------------------
+After Clone/Download this go to the include/connect.php
+Add Host Database Username,Passwoard,Database Name.
 
 Default Username "admin" Passwoard "123456"
