@@ -16,3 +16,6 @@ After That connect the database and go to
 include/connect.php
 and give
 database name username passwoard
+
+
+Default Username "admin" Passwoard "123456"
